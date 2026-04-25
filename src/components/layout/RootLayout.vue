@@ -42,7 +42,7 @@
     <!-- Footer -->
     <footer class="border-t border-slate-700/50 py-6 text-center text-sm text-slate-500">
       <p>
-        AlgoViz — Praca magisterska, Uniwersytet Zielonogórski © {{ new Date().getFullYear() }}
+        Maciej Buszkiewicz, Praca magisterska
       </p>
     </footer>
   </div>
