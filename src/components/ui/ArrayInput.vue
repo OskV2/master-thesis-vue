@@ -35,8 +35,8 @@ import { ref } from "vue";
 
 const props = defineProps({
   defaultSize: { type: Number, default: 10 },
-  maxSize: { type: Number, default: 30 },
-  maxValue: { type: Number, default: 99 },
+  maxSize: { type: Number, default: 75 },
+  maxValue: { type: Number, default: 200 },
 });
 
 const emit = defineEmits(["submit"]);
