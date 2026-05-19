@@ -35,7 +35,7 @@ import { ref } from "vue";
 
 const props = defineProps({
   defaultSize: { type: Number, default: 10 },
-  maxSize: { type: Number, default: 75 },
+  maxSize: { type: Number, default: 100 },
   maxValue: { type: Number, default: 200 },
 });
 
